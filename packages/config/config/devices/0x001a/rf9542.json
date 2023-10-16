@@ -122,6 +122,7 @@
 		}
 	],
 	"compat": {
+		"treatBasicSetAsEvent": true,
 		"enableBasicSetMapping": true
 	}
 }
